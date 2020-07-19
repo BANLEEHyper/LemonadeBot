@@ -1,0 +1,25 @@
+Congratulations on purchasing Steven Lemonade Instagram Bot! In this document, I will go through with you the downloading and operating process of this bot,
+as well as giving you some advice and how you should use this tool. WARNING: The downloading process is complicated, so feel free to contact me on instagram @lemonade_records
+if you are stuck on any part of the downloading process
+
+Dowloading process:
+1. Install visual studio. Visual studio is a program developing software made by microsoft and is gloablly used by many programmers. If you are using MAC or Linux, 
+download it in the link below. Once it is downloaded, feel free to close the app
+
+https://visualstudio.microsoft.com/ko/
+
+2. Install chromedriver. The link below will help you download the driver
+https://www.youtube.com/watch?v=dz59GsdvUF8
+
+3. Right click on the python file that is titled 'Bot', and click 'open with visual studio code'
+
+4. In the code, there should be a section where you can enter your username and password, as well as the type of hashtag you want to start commenting in. 
+There should also be a command for how many times you want to comment per round. I reccomend not going over 40, for going beyond that number may cause 
+instagram to ban you
+
+5. Enjoy your bot!
+
+*If you are having trouble installing the bot, Feel free to email us sangholee0202@gmail.com . We will install it for you for an additional fee of $5
+
+
+
