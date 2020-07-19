@@ -3,8 +3,7 @@ as well as giving you some advice and how you should use this tool. WARNING: The
 if you are stuck on any part of the downloading process
 
 Dowloading process:
-1. Install visual studio. Visual studio is a program developing software made by microsoft and is gloablly used by many programmers. If you are using MAC or Linux, 
-download it in the link below. Once it is downloaded, feel free to close the app
+1. Install visual studio with the given link below. Once it is downloaded, feel free to close the app
 
 https://visualstudio.microsoft.com/ko/
 
