@@ -5,7 +5,7 @@ if you are stuck on any part of the downloading process
 Dowloading process:
 1. Install visual studio with the given link below. Once it is downloaded, feel free to close the app
 
-https://visualstudio.microsoft.com/ko/
+https://visualstudio.microsoft.com/
 
 2. Install chromedriver. The link below will help you download the driver
 https://www.youtube.com/watch?v=dz59GsdvUF8
